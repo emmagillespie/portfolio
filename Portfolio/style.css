@@ -1,0 +1,17 @@
+body{background-color:#fffefa;
+color:black;
+font-family: serif;}
+header{background-color:#bb6c03;display:flex;
+    justify-content:center;}
+header img {width: 70px;
+}
+body{background-image:url(Images/floral.jpg);}
+.dinner img{width:600px;
+align-content: center;}
+h1{display:none;}
+nav a { font-family:serif;
+font-size:40px;
+color:black;
+}
+nav{display:flex;
+justify-content:space-around;}
